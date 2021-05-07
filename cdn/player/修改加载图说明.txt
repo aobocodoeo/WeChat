@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+
+第一步：   背景图模糊设置   在btjsonplayer.min.css     574行    filter: blur(0px);     0这个是标识最高清晰度     这个根据自己需要自己设置即可
+
+
+第二步：   设置背景图562行   	background: url(https://img10.360buyimg.com/ddimg/jfs/t1/176340/18/8164/733759/609395e4E2df09db0/80b3d377da26e626.jpg) #000000;   
+           中修改自己想要的背景图
+
+第三步：   修改中间图581行    background: url(https://img13.360buyimg.com/ddimg/jfs/t1/185080/17/2599/91779/6093991cEba246750/4634b6e0c56b6510.png) no-repeat;    
+
+           中的图片可以设置自己想要的图
+
+
+第四步：   修改左下角字体颜色    389行 unset;color: #75defe;height:    字体颜色#75defe  自己修改成自己想要的
+
+
+
+
+
+
+
